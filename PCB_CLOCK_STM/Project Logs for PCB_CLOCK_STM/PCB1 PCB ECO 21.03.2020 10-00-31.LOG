@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LED_A2_2 Pin=X2-13
+Removed Pin From Net: NetName=LED_A4_2 Pin=X2-15
+Added Pin To Net: NetName=LED_A2_2 Pin=X2-17
+Added Pin To Net: NetName=LED_A4_2 Pin=X2-19
+Added Member To Class: ClassName=Sheet2 Member=Component X2 Connector, 20pin, 2.54mm, 500VAC, 3A

@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=LED_A1 Pin=DD1-3
+Added Pin To Net: NetName=LED_A2 Pin=DD2-3
+Added Pin To Net: NetName=LED_A3 Pin=DD3-3
+Added Pin To Net: NetName=LED_A4 Pin=DD4-3
+Added Pin To Net: NetName=LED_A1 Pin=R2-1
+Added Pin To Net: NetName=LED_A2 Pin=R3-1
+Added Pin To Net: NetName=LED_A3 Pin=R4-1
+Added Pin To Net: NetName=LED_A4 Pin=R8-2
+Added Member To Class: ClassName=Sheet2 Member=Component C12 12p
+Added Member To Class: ClassName=Sheet2 Member=Component C13 12p
+Added Member To Class: ClassName=Sheet2 Member=Component C14 12p
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

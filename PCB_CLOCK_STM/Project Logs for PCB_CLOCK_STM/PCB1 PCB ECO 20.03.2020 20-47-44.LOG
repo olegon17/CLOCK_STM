@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LED_0_2 Pin=X2-1
+Removed Pin From Net: NetName=LED_6_2 Pin=X2-5
+Added Pin To Net: NetName=LED_6_2 Pin=X2-1
+Added Pin To Net: NetName=LED_0_2 Pin=X2-5
+Added Member To Class: ClassName=Sheet2 Member=Component V2 IN-12

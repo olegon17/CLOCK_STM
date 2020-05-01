@@ -1,0 +1,31 @@
+Bill of Material for 
+On 31.03.2020 at 17:39:36
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 1-1825027-1         BUTTON-R         3    SB1, SB2, SB3                Button               
+ 12p                 CAPACITOR 0603   13    C1, C3, C4, C5, C6, C7, C8   Capacitor            
+                                           C9, C10, C11, C12, C13, C14
+ 12p                 CAPACITOR 0805    1    C2                           Capacitor            
+ 300k                RESISTOR 0603   15    R1, R2, R3, R4, R5, R8, R9   Resistor             
+                                           R10, R11, R13, R14, R15, R16
+                                           R17, R18
+ 300k                RESISTOR 0805    2    R12, R19                     Resistor             
+ 300k                RESISTOR 1206    2    R6, R7                       Resistor             
+ 32.768 kHz          SMD08038C4       1    ZQ1                          Quartz               
+ CDRH74NP-471MC      SRR0603B         1    L1                                                
+ Connector, 20pin, 2.54mm, 500VAC, 3A CON: PBD-20      1    X1                                                
+ Connector, 20pin, 2.54mm, 500VAC, 3A CON: PLD-20-rebro    1    X2                                                
+ ES1J                DO-214           1    VD1                          Diod                 
+ IN-12               DIODE: IN-12     4    V1, V2, V3, V4               Vacuum Indicator     
+ IPD80R900P7         DPAK             1    VT2                          Transistor           
+ JRB2G4R7            CAPASITOR R10    1    C15                          TC-D                 
+ K155ID1_(7.62)      DIP-16_(7.62)    1    D1                                                
+ KLS5-CR2032-01      CR2032           1    XP1                          Connector            
+ LED                 LED 0603         1    HL1                                               
+ LTV-352T            SOP-4W           4    DD1, DD2, DD3, DD4           Isolator             
+ MMBTA42LT1          SOT-23           1    VT1                          Transistor           
+ PLS-4               PLS-4            3    XP2, XP3, XP4                Connector            
+ R1SE-0505           R1SE-0505        1    G1                           POWER                
+ STM32F101C6T6       48-LQFP          1    DD5                          Controller           
+ TLV71333PDBVR       SOT23-5          1    U1                           POWER                
