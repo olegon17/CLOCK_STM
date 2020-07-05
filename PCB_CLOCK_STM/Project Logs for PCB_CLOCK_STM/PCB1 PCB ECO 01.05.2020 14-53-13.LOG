@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=BUT2 Pin=J2-12
+Added Pin To Net: NetName=BUT3 Pin=J2-13
+Added Pin To Net: NetName=BUT1 Pin=J2-14
+Added Pin To Net: NetName=GND Pin=J2-15
+Change Net Name : Old Net Name=GND New Net Name=PIN20
+Added Pin To Net: NetName=PIN16 Pin=DD5-16
+Added Pin To Net: NetName=PIN16 Pin=J2-11
+Added Net: Name=PIN16
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

@@ -1,0 +1,118 @@
+Change Component Designator: OldDesignator=C2 NewDesignator=C7
+Change Component Designator: OldDesignator=C3 NewDesignator=C8
+Change Component Designator: OldDesignator=C4 NewDesignator=C9
+Change Component Designator: OldDesignator=C5 NewDesignator=C11
+Change Component Designator: OldDesignator=C6 NewDesignator=C2
+Change Component Designator: OldDesignator=C7 NewDesignator=C3
+Change Component Designator: OldDesignator=C8 NewDesignator=C4
+Change Component Designator: OldDesignator=C9 NewDesignator=C5
+Change Component Designator: OldDesignator=C10 NewDesignator=C6
+Change Component Designator: OldDesignator=C11 NewDesignator=C10
+Change Component Designator: OldDesignator=R6 NewDesignator=R11
+Change Component Designator: OldDesignator=R7 NewDesignator=R12
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R9 NewDesignator=R7
+Change Component Designator: OldDesignator=R10 NewDesignator=R8
+Change Component Designator: OldDesignator=R11 NewDesignator=R9
+Change Component Designator: OldDesignator=R12 NewDesignator=R10
+Added Component: Designator=DD5(STM32_BOARD)
+Added Component: Designator=DD6(48-LQFP)
+Added Pin To Net: NetName=LED Pin=DD5-2
+Added Pin To Net: NetName=3V3 Pin=DD5-3V3
+Added Pin To Net: NetName=3V3 Pin=DD5-3V3
+Added Pin To Net: NetName=3V3 Pin=DD5-3V3
+Added Pin To Net: NetName=3V3 Pin=DD5-3V3
+Added Pin To Net: NetName=3V3 Pin=DD5-3V3
+Added Pin To Net: NetName=5V Pin=DD5-5V
+Added Pin To Net: NetName=NRST Pin=DD5-7
+Added Pin To Net: NetName=OPT4 Pin=DD5-10
+Added Pin To Net: NetName=OPT3 Pin=DD5-11
+Added Pin To Net: NetName=OPT2 Pin=DD5-12
+Added Pin To Net: NetName=OPT1 Pin=DD5-13
+Added Pin To Net: NetName=CATH3 Pin=DD5-14
+Added Pin To Net: NetName=CATH4 Pin=DD5-15
+Added Pin To Net: NetName=PIN16 Pin=DD5-16
+Added Pin To Net: NetName=BUT2 Pin=DD5-17
+Added Pin To Net: NetName=BUT3 Pin=DD5-18
+Added Pin To Net: NetName=BUT1 Pin=DD5-19
+Added Pin To Net: NetName=PIN20 Pin=DD5-20
+Added Pin To Net: NetName=PIN21 Pin=DD5-21
+Added Pin To Net: NetName=PIN22 Pin=DD5-22
+Added Pin To Net: NetName=CATH2 Pin=DD5-25
+Added Pin To Net: NetName=CATH1 Pin=DD5-32
+Added Pin To Net: NetName=PA12 Pin=DD5-33
+Added Pin To Net: NetName=PWM Pin=DD5-40
+Added Pin To Net: NetName=PIN45 Pin=DD5-45
+Added Pin To Net: NetName=PIN46 Pin=DD5-46
+Added Pin To Net: NetName=PIN20 Pin=DD5-GND
+Added Pin To Net: NetName=PIN20 Pin=DD5-GND
+Added Pin To Net: NetName=PIN20 Pin=DD5-GND
+Added Pin To Net: NetName=PIN20 Pin=DD5-GND
+Added Pin To Net: NetName=PIN20 Pin=DD5-GND
+Added Pin To Net: NetName=PIN20 Pin=DD5-GND
+Added Pin To Net: NetName=VBAT Pin=DD6-1
+Added Pin To Net: NetName=LED Pin=DD6-2
+Added Pin To Net: NetName=NRST Pin=DD6-7
+Added Pin To Net: NetName=PIN20 Pin=DD6-8
+Added Pin To Net: NetName=3V3 Pin=DD6-9
+Added Pin To Net: NetName=OPT4 Pin=DD6-10
+Added Pin To Net: NetName=OPT3 Pin=DD6-11
+Added Pin To Net: NetName=OPT2 Pin=DD6-12
+Added Pin To Net: NetName=OPT1 Pin=DD6-13
+Added Pin To Net: NetName=CATH3 Pin=DD6-14
+Added Pin To Net: NetName=CATH4 Pin=DD6-15
+Added Pin To Net: NetName=PIN16 Pin=DD6-16
+Added Pin To Net: NetName=BUT2 Pin=DD6-17
+Added Pin To Net: NetName=BUT3 Pin=DD6-18
+Added Pin To Net: NetName=BUT1 Pin=DD6-19
+Added Pin To Net: NetName=PIN20 Pin=DD6-20
+Added Pin To Net: NetName=PIN21 Pin=DD6-21
+Added Pin To Net: NetName=PIN22 Pin=DD6-22
+Added Pin To Net: NetName=PIN20 Pin=DD6-23
+Added Pin To Net: NetName=3V3 Pin=DD6-24
+Added Pin To Net: NetName=CATH2 Pin=DD6-25
+Added Pin To Net: NetName=U_TX Pin=DD6-30
+Added Pin To Net: NetName=U_RX Pin=DD6-31
+Added Pin To Net: NetName=CATH1 Pin=DD6-32
+Added Pin To Net: NetName=PA12 Pin=DD6-33
+Added Pin To Net: NetName=DIO Pin=DD6-34
+Added Pin To Net: NetName=PIN20 Pin=DD6-35
+Added Pin To Net: NetName=3V3 Pin=DD6-36
+Added Pin To Net: NetName=CLK Pin=DD6-37
+Added Pin To Net: NetName=PWM Pin=DD6-40
+Added Pin To Net: NetName=PIN45 Pin=DD6-45
+Added Pin To Net: NetName=PIN46 Pin=DD6-46
+Added Pin To Net: NetName=PIN20 Pin=DD6-47
+Added Pin To Net: NetName=3V3 Pin=DD6-48
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=DD6-3
+Added Pin To Net: NetName=NetC5_2 Pin=ZQ1-1
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=DD6-4
+Added Pin To Net: NetName=NetC6_2 Pin=ZQ1-4
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetDD6_44 Pin=DD6-44
+Added Pin To Net: NetName=NetDD6_44 Pin=R13-1
+Added Pin To Net: NetName=NetDD6_44 Pin=R14-1
+Added Net: Name=NetDD6_44
+Added Member To Class: ClassName=Sheet1 Member=Component C12 12p
+Added Member To Class: ClassName=Sheet1 Member=Component C13 12p
+Added Member To Class: ClassName=Sheet1 Member=Component C14 12p
+Added Member To Class: ClassName=Sheet1 Member=Component C15 JRB2G4R7
+Added Member To Class: ClassName=Sheet1 Member=Component DD5 STM32F103C8T6_BOARD
+Added Member To Class: ClassName=Sheet1 Member=Component DD6 STM32F103C8T6_MCU
+Added Member To Class: ClassName=Sheet1 Member=Component L1 CDRH74NP-471MC
+Added Member To Class: ClassName=Sheet1 Member=Component R16 300k
+Added Member To Class: ClassName=Sheet1 Member=Component R17 300k
+Added Member To Class: ClassName=Sheet1 Member=Component R18 300k
+Added Member To Class: ClassName=Sheet1 Member=Component R19 300k
+Added Member To Class: ClassName=Sheet1 Member=Component V1 IN-12
+Added Member To Class: ClassName=Sheet1 Member=Component V2 IN-12
+Added Member To Class: ClassName=Sheet1 Member=Component V3 IN-12
+Added Member To Class: ClassName=Sheet1 Member=Component V4 IN-12
+Added Member To Class: ClassName=Sheet1 Member=Component VD1 ES1J
+Added Member To Class: ClassName=Sheet1 Member=Component VT1 MMBTA42LT1
+Added Member To Class: ClassName=Sheet1 Member=Component VT2 IPD80R900P7
+Added Member To Class: ClassName=Sheet1 Member=Component X2 Connector, 20pin, 2.54mm, 500VAC, 3A
+Added Room: Name=Sheet1

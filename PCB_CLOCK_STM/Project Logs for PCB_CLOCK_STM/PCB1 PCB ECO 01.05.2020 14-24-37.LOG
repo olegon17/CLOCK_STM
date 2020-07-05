@@ -1,0 +1,4 @@
+Added Component: Designator=J1(CON20_100_40D72_TH_ST)
+Added Component: Designator=J2(CON20_100_40D72_TH_ST)
+Added Member To Class: ClassName=Sheet1 Member=Component J1 20X1 Bergstrip
+Added Member To Class: ClassName=Sheet1 Member=Component J2 20X1 Bergstrip
